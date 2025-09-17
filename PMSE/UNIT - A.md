@@ -206,5 +206,20 @@ In software development, a "process model" is a roadmap or recipe for creating s
 	- **Construction**: Develop the bulk of code iteratively, in small releases
 	- **Transition**: Deploy, train users, and gather feedback for beta testing.
 2. **Disciplines**: Run in parallel---requirements, analysis/design, implementation, testing, deployment, etc.
-3. **Iterations**: 
+3. **Iterations**: Within phases, work in short cycles (e.g.: 2-6 weeks) with milestones.
+4. **Artifacts**: Emphasizes models like UML (Unified Modelling Language) for visualization.
+
+##### Pros:
+1. Balanced and scalable---iterative yet disciplined, great for large, complex systems.
+2. Strong on quality: Built-in testing and risk management.
+3. Promotes reuse (e.g.: components from past projects)
+
+##### Cons:
+1. Steep learning curve---requires training in tools like UML
+2. Can be bureaucratic with too much documentation for small teams.
+3. Overkill for simple apps, leading to unnecessary overhead.
+
+---
+
+
 
