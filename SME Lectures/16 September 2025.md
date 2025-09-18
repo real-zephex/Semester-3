@@ -3,15 +3,15 @@
 - It is a conceptual framework used to understand and standardize how different networking technologies and protocols communicate. 
 - It breaks the down the complex process of network communication into seven distinct layers:
 
-| Layer | Layer Name   | Function                                                                                                                                 |
-| ----- | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| 7     | Application  | **The User Interface**<br>Provides services directly to the user's software. This is what the user sees and interacts with.              |
-| 6     | Presentation | **Translation and Security**<br>Translates data into a common format. It's the translator of the model.                                  |
-| 5     | Session      | **Connection Control**<br>Manages the establishment, maintenance, and termination of sessions between applications.                      |
-| 4     | Transport    | **End to End Connections and Reliability**<br>Ensures complete data transfer. Manages error correction, flow control, and segmentation.  |
-| 3     | Network      | **Logical Addressing and Path Determination.**<br>Moves data packets across different networks using logical addresses (IP Addresses)    |
-| 2     | Data Link    | **Physical Addressing and Error Detection.**<br>Moves data within the same network (LAN) using physical addresses. (MAC Addresses)       |
-| 1     | Physical     | **The Raw Hardware.**<br>Transmits the raw bit stream over the physical medium (cables, radio, waves)                                    |
+| Layer | Layer Name   | Function                                                                                                                                |
+| ----- | ------------ | --------------------------------------------------------------------------------------------------------------------------------------- |
+| 7     | Application  | **The User Interface**<br>Provides services directly to the user's software. This is what the user sees and interacts with.             |
+| 6     | Presentation | **Translation and Security**<br>Translates data into a common format. It's the translator of the model.                                 |
+| 5     | Session      | **Connection Control**<br>Manages the establishment, maintenance, and termination of sessions between applications.                     |
+| 4     | Transport    | **End to End Connections and Reliability**<br>Ensures complete data transfer. Manages error correction, flow control, and segmentation. |
+| 3     | Network      | **Logical Addressing and Path Determination.**<br>Moves data packets across different networks using logical addresses (IP Addresses)   |
+| 2     | Data Link    | **Physical Addressing and Error Detection.**<br>Moves data within the same network (LAN) using physical addresses. (MAC Addresses)      |
+| 1     | Physical     | **The Raw Hardware.**<br>Transmits the raw bit stream over the physical medium (cables, radio, waves)                                   |
 
 #### What is the importance of OSI model?
 
@@ -56,4 +56,12 @@ Some of the popular SIEM tools are:
 3. Arc Sight (Micro Focus)
 4. LogRhythm
 5. ELK (Elastic Search, Logstash, Kibana)
+
+---
+
+#### CAM
+- containable address memory
+
+#### ARP
+- address resolution protocol
 
