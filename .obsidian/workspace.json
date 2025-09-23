@@ -11,14 +11,12 @@
             "id": "decd4a23ae41c1ea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Data Analytics/Important Terms.md",
-                "mode": "source",
-                "source": false
+                "file": "pdfs/Unit - A (OS).pdf"
               },
-              "icon": "lucide-file",
-              "title": "Important Terms"
+              "icon": "lucide-file-text",
+              "title": "Unit - A (OS)"
             }
           }
         ]
@@ -181,11 +179,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "decd4a23ae41c1ea",
+  "active": "ee872db7a4405858",
   "lastOpenFiles": [
-    "RDBMS/Labs/September 23, 2025.md",
-    "Data Analytics/Important Terms.md",
+    "pdfs/RDBMS/Unit - A.pdf",
     "OS/Unit - A.md",
+    "Data Analytics/Important Terms.md",
+    "RDBMS/Labs/September 23, 2025.md",
     "RDBMS/Labs",
     "OS/attachments/Gemini_Generated_Image_2x2y612x2y612x2y(1).png",
     "OS/attachments/Pasted image 20250922031944.png",
@@ -199,7 +198,6 @@
     "pdfs/SME/16 September 2025.pdf",
     "pdfs/SME",
     "pdfs/New folder",
-    "pdfs/RDBMS/Unit - A.pdf",
     "pdfs/Unit - A_RDBMS.pdf",
     "Untitled.md",
     "SIH/RAG.md",

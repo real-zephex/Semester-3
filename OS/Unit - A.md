@@ -103,6 +103,7 @@ An operating system is a core software component that acts as an intermediary be
 - An RTOS provides real-time control over hardware resources and utilizes system resources efficiently while maintaining high reliability and responsiveness.
 
 ---
+
 #### System Calls
 System calls are programmatic interfaces between user applications and the operating system (OS). They provide a controlled mechanism for applications to request services from the kernel, enabling access to hardware without direct manipulation
 
@@ -111,6 +112,7 @@ System calls are programmatic interfaces between user applications and the opera
 2. **Standardised Interface**: Abstract low-level hardware details, providing a unified API across different systems.
 3. **Synchronous**: Blocks execution until the OS completes the request
 4. **System-dependent**: Implementation varies across operating system (e.g.: Linux, Windows, MacOS)
+
 
 
 [^1]: A **deadlock** is a situation where a set of processes gets permanently stuck because each process is waiting for a resource held by another process, and none of them can proceed.
