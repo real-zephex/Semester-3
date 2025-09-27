@@ -1,8 +1,8 @@
 {
   "theme": "system",
   "accentColor": "#5cbaf5",
-  "cssTheme": "Shimmering Focus",
+  "cssTheme": "Sanctum",
   "baseFontSizeAction": true,
-  "baseFontSize": 22,
+  "baseFontSize": 23,
   "showRibbon": true
 }
